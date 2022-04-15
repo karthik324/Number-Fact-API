@@ -1,6 +1,6 @@
 # api_integration
 
-A new Flutter project.
+Trying to learn API Integration. And this is a simple, number fact checking app with "numbersapi.com"
 
 ## Getting Started
 
