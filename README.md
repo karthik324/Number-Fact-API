@@ -1,6 +1,6 @@
 # api_integration
 
-Trying to learn API Integration. And this is a simple, number fact checking app with "numbersapi.com"
+Trying to learn API Integration. And this is a simple, number fact checking app with [Numbers API](http://numbersapi.com/)
 
 ## Getting Started
 
